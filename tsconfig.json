@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+
+        /* JSX Options */ 
+        "jsx": "react", 
+
+        /* Basic Options */   
+        "module": "commonjs",
+        "target": "es2016",
+        "outDir": "./dist",
+        "removeComments": true,
+
+        /* Type-Checking Options */
+        "strict": true,
+        "noFallthroughCasesInSwitch" : true,
+        "noImplicitReturns" : true,
+        "noUnusedParameters": true,
+
+        /* Source Map Options */
+        "sourceMap": true,
+    },
+     "files": [
+        "src/spa-dummy-data.tsx"
+    ]
+}
