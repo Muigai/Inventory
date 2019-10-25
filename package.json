@@ -8,7 +8,7 @@
   "author": "Muigai Mwaura",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^3.6.4"
+    "typescript": "^3.7.0-beta"
   },
   "dependencies": {
     "rahisi": "^1.1.23"
